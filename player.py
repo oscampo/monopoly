@@ -94,7 +94,7 @@ class Player:
 
     def buy_building(self):
         """Buy any building that can be legally bought."""
-        for m in self.monopolies:
+        # for m in self.monopolies:
 
 
     def go_to_jail(self):
